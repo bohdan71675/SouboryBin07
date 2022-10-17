@@ -1,0 +1,3 @@
+Bc;Petr;Novak;Muz;180;72
+Ing;Jana;Novotna;Zena;166;58
+Mgr;Jan;Dousek;Muz;176;65
